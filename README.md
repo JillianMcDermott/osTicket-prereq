@@ -122,7 +122,7 @@ Next return to the osTicketSetup and use the username, password, and database in
 
 Now click install now.
 
-We will tidy up the process by changing the permissions of the "ost-config.php" to read only, and finally you should clean up left over the file located at C:\inetpub\wwwroot\osTicket\setup
+We will tidy up the process by changing the permissions of the "ost-config.php" to read only, and finally you should clean up the left over file located at C:\inetpub\wwwroot\osTicket\setup
 
 <img src="https://github.com/JillianMcDermott/osTicket-prereq/assets/172544849/5ad4f28a-3b45-41e4-89dd-4e208aa45dfc"/>
 
