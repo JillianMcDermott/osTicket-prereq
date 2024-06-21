@@ -102,7 +102,7 @@ Now we will add permisions. Click add and under basic permissions check mark Ful
 
 Return to the osTicket setup page and click continue.
 
-<img src="https://github.com/JillianMcDermott/osTicket-prereq/assets/172544849/c811c8ed-c661-4368-9f3a-e11b3840a673"/>
+<img src="https://github.com/JillianMcDermott/osTicket-prereq/assets/172544849/ff9e6cc0-b5f3-406d-8ba4-90b1c50d08ab"/>
 
 Now fill out System Settings and Admin Users section. Make sure to take note of the information you use we will be using it again.
 
@@ -116,7 +116,7 @@ After insallation launch and start a new session. For this I will be using Usern
 
 Next click open and then right click on unnamed and go to create new> Database. We will name this osTicket.
 
-<img src="https://github.com/JillianMcDermott/osTicket-prereq/assets/172544849/0c3d174f-9460-4c7c-b3a2-a3524d46f4d1"/>
+<img src="https://github.com/JillianMcDermott/osTicket-prereq/assets/172544849/a8173348-7bef-4939-8858-2268513e6a6f"/>
 
 Next return to the osTicketSetup and use the username, password, and database information we just created in the Database Settings.
 
